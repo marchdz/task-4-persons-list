@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Task 4: Users List</string>
+
+    <string name="date_format">dd-MM-yyyy</string>
+
+    <string name="dialog_add_add">Add</string>
+    <string name="dialog_add_cancel">Cancel</string>
+    <string name="dialog_add_wrong_input">You must fill both fields to add an user</string>
+    <string name="dialog_add_title">Add new person</string>
+
+    <string name="dialog_detail_close">Close</string>
+    <string name="dialog_detail_date">Date: %1$s</string>
+    <string name="dialog_detail_name">Name: %1$s</string>
+    <string name="dialog_detail_title">Person detail</string>
+
+    <string name="menu_sort_name_header">Sort by:</string>
+    <string name="menu_sort_name_ascending">Name ascending</string>
+    <string name="menu_sort_name_descending">Name descending</string>
+    <string name="menu_sort_date_ascending">Date ascending</string>
+    <string name="menu_sort_date_descending">Date descending</string>
+    <string name="menu_sort_insert_ascending">Insertion ascending</string>
+    <string name="menu_sort_insert_descending">Insertion descending</string>
+</resources>

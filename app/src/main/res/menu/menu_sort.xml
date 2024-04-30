@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/menu_sort_name_header"
+        android:enabled="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/sort_name_ascending"
+        android:title="@string/menu_sort_name_ascending"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sort_name_descending"
+        android:title="@string/menu_sort_name_descending"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sort_date_ascending"
+        android:title="@string/menu_sort_date_ascending"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sort_date_descending"
+        android:title="@string/menu_sort_date_descending"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sort_insert_ascending"
+        android:title="@string/menu_sort_insert_ascending"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/sort_insert_descending"
+        android:title="@string/menu_sort_insert_descending"
+        app:showAsAction="ifRoom" />
+
+</menu>
